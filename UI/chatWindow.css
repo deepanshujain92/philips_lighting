@@ -1,3 +1,8 @@
+.body {
+    background-image: url("http://i.imgur.com/MhxWENm.jpg");
+    background-repeat: no-repeat;
+}
+
 /*global css */
 .pos-absolute{
     position: absolute!important;
