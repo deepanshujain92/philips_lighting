@@ -155,9 +155,9 @@ body {
 }
 .kore-chat-window  .kore-chat-header {
     border-bottom:1px solid #EEEEEE;
-    color: #222;
+    color: #ffffff;
     font-size: 16px;
-    background-color: white;
+    background-color: #15363f;
     font-family: arial,sans-serif;
     height: 50px;
     line-height: 49px;
