@@ -348,7 +348,7 @@ ul.chat-container li.fromCurrentUser .messageBubble .message-status.recieved{
 ul.chat-container li.fromOtherUsers .messageBubble{
     float:left;
     background-color: #1e7a77;
-    color:#333;
+    color:#ffffff;
     border-radius: 12px;
     border-bottom-left-radius: 2px;
     padding: 12px 15px;
